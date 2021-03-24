@@ -1,0 +1,12 @@
+spring:
+  main:
+    banner-mode: "OFF"
+    web-application-type: NONE
+
+baseUrl: "http://localhost:8080"
+queryParam: "s"
+timeoutSeconds: 5
+
+logging:
+  level:
+    root: INFO

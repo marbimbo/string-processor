@@ -1,0 +1,3 @@
+# Project exclude paths
+/console-application/target/
+/rest-service/target/
