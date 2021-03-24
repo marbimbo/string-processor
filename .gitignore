@@ -1,3 +1,7 @@
 # Project exclude paths
 /console-application/target/
 /rest-service/target/
+/string-processor.iml
+/rest-service/rest-service.iml
+/console-application/console-application.iml
+/.idea/
