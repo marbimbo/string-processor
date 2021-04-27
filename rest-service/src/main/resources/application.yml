@@ -16,3 +16,6 @@ filename: "input.txt.gz"
 logging:
   level:
     root: INFO
+
+server:
+  shutdown: graceful
